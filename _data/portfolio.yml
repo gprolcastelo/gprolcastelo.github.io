@@ -25,7 +25,7 @@
 - name: "MinSizeML"
   description: "MinSizeML (Minimum Size for Machine Learning), an R package with functions to estimate the minimum sample size needed for supervised learning classification tasks."
   repo_url: "https://github.com/gprolcastelo/MinSizeML"
-  image: "/assets/images/portfolio/github-icon.svg"
+  image: "/assets/images/portfolio/r-icon.svg"
 
 - name: "irreversibility_master_thesis_guillermo"
   description: "Code to reproduce the master's thesis \"Irreversibility in Early Mammalian Embryonic Stem Cells,\" studying the dynamics and irreversibility of early cell fate decisions."
