@@ -11,6 +11,7 @@ title: Portfolio
     <div class="portfolio-body">
       <h2><a href="{{ project.repo_url }}" target="_blank" rel="noopener">{{ project.name }}</a></h2>
       <p>{{ project.description }}</p>
+      {% if project.attribution %}<p class="portfolio-attribution">{{ project.attribution }}</p>{% endif %}
     </div>
   </li>
 {% endfor %}

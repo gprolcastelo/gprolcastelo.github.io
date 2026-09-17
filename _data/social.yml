@@ -1,18 +1,18 @@
 - label: "ORCID"
   icon: "orcid"
-  url: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # TODO: replace with your ORCID URL
+  url: "https://orcid.org/0000-0003-2662-1852"
 - label: "Google Scholar"
   icon: "scholar"
-  url: "https://scholar.google.com/citations?user=XXXXXXX"   # TODO: replace with your Scholar profile
+  url: "https://scholar.google.com/citations?user=QtFdl_cAAAAJ&hl=es&oi=ao"
 - label: "LinkedIn"
   icon: "linkedin"
-  url: "https://www.linkedin.com/in/XXXXXXX"   # TODO: replace with your LinkedIn profile
+  url: "https://www.linkedin.com/in/guillermo-prol-castelo/"
 - label: "Bluesky"
   icon: "bluesky"
-  url: "https://bsky.app/profile/XXXXXXX"   # TODO: replace with your Bluesky handle
+  url: "https://bsky.app/profile/gprolcastelo.bsky.social"
 - label: "GitHub"
   icon: "github"
-  url: "https://github.com/gpcastelo"
+  url: "https://github.com/gprolcastelo"
 - label: "Email"
   icon: "email"
-  url: "mailto:galileomilkharmonica@duck.com"
+  url: "mailto:gprolcast@gmail.com"

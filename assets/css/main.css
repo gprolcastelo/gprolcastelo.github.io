@@ -205,7 +205,8 @@ body {
 .portfolio-figure {
   width: 160px;
   height: 120px;
-  object-fit: cover;
+  object-fit: contain;
+  background: var(--color-bg);
   border-radius: 6px;
   border: 1px solid var(--color-border);
   flex-shrink: 0;
@@ -219,6 +220,23 @@ body {
 .portfolio-body p {
   margin: 0;
   color: var(--color-text);
+}
+
+.portfolio-body p a {
+  color: var(--color-accent);
+}
+
+.portfolio-body p + p {
+  margin-top: 0.5rem;
+}
+
+.portfolio-attribution {
+  color: var(--color-muted);
+  font-size: 0.75rem;
+}
+
+.portfolio-attribution a {
+  color: var(--color-muted);
 }
 
 /* Publications */

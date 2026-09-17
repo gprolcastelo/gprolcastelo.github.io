@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+published: false
 ---
 <p class="section-intro">Outreach-style notes on research trends and my own work.</p>
 
