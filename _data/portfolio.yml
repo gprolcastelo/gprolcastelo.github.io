@@ -4,6 +4,7 @@
   description: "A Python package for simulating kidney cancer progression, combining synthetic data generation with interpretable modeling to study how the disease evolves over time."
   repo_url: "https://github.com/gprolcastelo/renalprog"
   image: "/assets/images/kidneys.png"
+  attribution: '<a href="https://www.flaticon.com/free-icons/kidneys" title="kidneys icons">Kidneys icons created by Smashicons - Flaticon</a>'
 
 - name: "synthetic_medulloblastoma"
   description: "Code to reproduce the paper \"Exploring the Boundaries of Medulloblastoma Subgroups with Synthetic Data Generation,\" using a Variational Autoencoder and explainability techniques to uncover an intermediate molecular subgroup between Groups 3 and 4."
