@@ -1,33 +1,40 @@
 # One entry per project/repo. `attribution` is optional small-print icon credit.
+# `stack` is an optional short list of languages/frameworks used.
 
 - name: "renalprog"
   description: "A Python package for simulating kidney cancer progression, combining synthetic data generation with interpretable modeling to study how the disease evolves over time."
   repo_url: "https://github.com/gprolcastelo/renalprog"
   image: "/assets/images/kidneys.png"
   attribution: '<a href="https://www.flaticon.com/free-icons/kidneys" title="kidneys icons">Kidneys icons created by Smashicons - Flaticon</a>'
+  stack: "Python, PyTorch"
 
 - name: "synthetic_medulloblastoma"
   description: "Code to reproduce the paper \"Exploring the Boundaries of Medulloblastoma Subgroups with Synthetic Data Generation,\" using a Variational Autoencoder and explainability techniques to uncover an intermediate molecular subgroup between Groups 3 and 4."
   repo_url: "https://github.com/gprolcastelo/synthetic_medulloblastoma"
   image: "/assets/images/F1.large.jpg"
+  stack: "Python, PyTorch"
 
 - name: "bitsxlamarato-medulloblastoma"
   description: "Hackathon project building an AI model that scores the G3/G4 medulloblastoma subgroup continuum from transcriptomics data, developed during the BitsxLaMarató hackathon. Winning team's repo: <a href=\"https://github.com/FLOOREES/BitsxLaMarato-2025-BSC\" target=\"_blank\" rel=\"noopener\">FLOOREES/BitsxLaMarato-2025-BSC</a>."
   repo_url: "https://github.com/gprolcastelo/bitsxlamarato-medulloblastoma"
   image: "/assets/images/portfolio/github-icon.svg"
+  stack: "Python"
 
 - name: "HB_app"
   description: "Code for the hepatoblastoma biomarker web application hosted at clo.life.bsc.es, supporting diagnostic and prognostic biomarker validation, including Molecular Risk Stratification (MRS)."
   repo_url: "https://github.com/gprolcastelo/HB_app"
   image: "/assets/images/interactive.png"
   attribution: '<a href="https://www.flaticon.com/free-icons/interactive" title="interactive icons">Interactive icons created by Magnific - Flaticon</a>'
+  stack: "Python, Dash"
 
 - name: "MinSizeML"
   description: "MinSizeML (Minimum Size for Machine Learning), an R package with functions to estimate the minimum sample size needed for supervised learning classification tasks."
   repo_url: "https://github.com/gprolcastelo/MinSizeML"
   image: "/assets/images/portfolio/r-icon.svg"
+  stack: "R"
 
 - name: "irreversibility_master_thesis_guillermo"
   description: "Code to reproduce the master's thesis \"Irreversibility in Early Mammalian Embryonic Stem Cells,\" studying the dynamics and irreversibility of early cell fate decisions."
   repo_url: "https://github.com/dsb-lab/irreversibility_master_thesis_guillermo"
   image: "/assets/images/switch.png"
+  stack: "Julia"
